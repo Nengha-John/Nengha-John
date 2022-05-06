@@ -1,8 +1,8 @@
 <!-- # Hi there 👋 -->
 ## About Me
- Full-Stack Developer | 📍 Dar es Salaam, Tanzania 
+# Full-Stack Developer | 📍 Dar es Salaam, Tanzania 
  ​
-### I am a Passionate Junior Developer in love with coding and problem solving. Currently a student at UDSM and Part-Time Freelancer.
+ I am a Passionate Junior Developer in love with coding and problem solving. Currently a student at UDSM and Part-Time Freelancer.
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nengha-john&repo=nenghajm)](https://github.com/anuraghazra/github-readme-stats) -->
 
@@ -42,6 +42,7 @@
 ## Github Stats  
  ​![​John's github stats​](https://github-readme-stats.vercel.app/api?username=nengha-john&count_private=true&show_icons=true&theme=github_dark) 
 
+## Wakatime Stats
  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nengha)](https://github.com/anuraghazra/github-readme-stats)
   
   
