@@ -1,6 +1,6 @@
 <!-- # Hi there 👋 -->
 ## About Me
-# Full-Stack Developer | 📍 Dar es Salaam, Tanzania 
+### Full-Stack Developer | 📍 Dar es Salaam, Tanzania 
  ​
  I am a Passionate Junior Developer in love with coding and problem solving. Currently a student at UDSM and Part-Time Freelancer.
 
