@@ -1,8 +1,8 @@
 ## About Me
-Nengha.JM <br>
-Full-Stack Developer | Mobile App Developer <br>
+📛 Nengha.JM <br>
+🧰 Full-Stack Developer | Mobile App Developer <br>
 📍 Dar es Salaam, Tanzania <br>
-Let's build solutions. <br>
+💪 Let's build solutions. <br>
 
 ## Github Stats  
  ​![​John's github stats​](https://github-readme-stats.vercel.app/api?username=nengha-john&count_private=true&show_icons=true&theme=github_dark) 
