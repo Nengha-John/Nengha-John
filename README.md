@@ -1,8 +1,7 @@
-## About Me
-📛 Nengha.JM <br>
-🧰 Full-Stack Developer | Mobile App Developer <br>
-📍 Dar es Salaam, Tanzania <br>
-💪 Let's build solutions. <br>
+👨‍💻 Nengha.JM <br>
+💻 Full-Stack Developer | Mobile App Developer <br>
+🚧 I believe in solving complex problems with the simplest solution. <br>
+⚓ Simplicity is complex. <br>
 
 <!--- ## Github Stats  
 ![Nengha's GitHub stats](https://github-readme-stats1-gray-zeta.vercel.app/api?username=nengha-john&count_private=true&show_icons=true&theme=dark)
